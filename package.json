@@ -1,0 +1,13 @@
+{
+  "name": "CryptoBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ibveecnk/CryptoBot.git",
+  "author": "Iven Beck <ivenbeck@outlook.de>",
+  "license": "MIT",
+  "dependencies": {
+    "binance": "^1.3.5",
+    "dotenv": "^8.2.0"
+  },
+  "scripts": {"start": "node index.js"}
+}
